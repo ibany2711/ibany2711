@@ -1,7 +1,8 @@
 <h2 align="center"><b>Información Personal 👨‍💻</b></h2>
 
 <div align="center">
-<br><p align="center"><b>Vicitas</b></p>  
+<br><p align="center"><b>◦•●❤♡ Visitantes ♡❤●•◦  
+</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p>
 
 
