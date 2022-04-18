@@ -1,5 +1,9 @@
 <h2 align="center"><b>Información Personal 👨‍💻</b></h2>
 
+<div align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p>
+
 
 <p align='Middle'><a href='https://t.me/LegendBoy_XD><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
